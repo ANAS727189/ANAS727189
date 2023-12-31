@@ -1,6 +1,6 @@
 👋 Hi Everyone, I’m Anas
 
- 👀 I’m interested in Web Development , AI/ML 
+ 👀 I’m interested in Web Development , AI/ML, Python 🐍. 
 
  🌱 I’m currently learning Web dev and ML data set analysis problems
 
