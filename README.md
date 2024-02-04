@@ -1,6 +1,6 @@
-                          HI👋 Everyone, I’m Anas. 
+<h1><b>HI👋 Everyone</b>, I’m Anas.</h1>
 
- 👀 I’m interested in Web Development , AI/ML, Python 🐍. 
+ 👀 I’m interested in Web Development ,  AI/ML,  Python🐍. 
 
  🌱 I’m currently learning Web dev and ML data set analysis problems, Python. 
 
