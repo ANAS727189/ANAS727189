@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India.</h3>
 
-<img align="right" alt="Coding" width="200" src="https://as1.ftcdn.net/v2/jpg/08/24/71/98/1000_F_824719896_gKb7ueuQjnBROHdABOJMvbiZ1vHX8Xiw.jpg">
+<img align="right" alt="Coding" width="300" src="https://as1.ftcdn.net/v2/jpg/08/24/71/98/1000_F_824719896_gKb7ueuQjnBROHdABOJMvbiZ1vHX8Xiw.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas727189&label=Profile%20views&color=0e75b6&style=flat" alt="anas727189" /> </p>
 
