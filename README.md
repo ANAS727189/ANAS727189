@@ -3,20 +3,18 @@
     src="/Anas_new.jpg" 
     alt="Profile Picture" 
     width="200" 
-    height="250" 
+    height="200" 
     style="border-radius: 50%; object-fit: cover; margin-bottom: 20px;"
   />
   
   # Hi, I am Anas 👋
   
-  <div align="center" style="margin-bottom: 20px;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+web+developer;I+am+a+Competitive+programmer;I+am+a+ML+enthusiast;I+am+a+DevOps+developer;I+am+a+Problem+solver" alt="Typing SVG" />
-    </a>
-  </div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=I+am+a+web+developer;I+am+a+Competitive+programmer;I+am+a+ML+enthusiast;I+am+a+DevOps+developer;I+am+a+Problem+solver" alt="Typing SVG" />
+  </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   I'm a passionate technologist with a deep interest in building innovative solutions. My journey in tech has led me to explore various domains from web development to machine learning. I believe in continuous learning and love to tackle complex problems. When I'm not coding, you can find me contributing to open-source projects or exploring new technologies.
 </div>
 
