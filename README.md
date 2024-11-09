@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" alt="Profile Picture" width="300" style="border-radius:50%" src="/placeholder.svg?height=300&width=300">
+  <img align="right" alt="Profile Picture" width="300" style="border-radius:50%" src="/Anas_new.jpg?height=300&width=300">
   
   # Hi, I am Anas 👋
   
