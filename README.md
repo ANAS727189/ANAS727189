@@ -17,7 +17,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  I'm a passionate technologist and problem solver with expertise in full-stack web development and a growing interest in Web3 technologies. With a strong foundation in competitive programming, I bring analytical thinking and efficient solutions to complex challenges. I'm actively exploring the intersection of blockchain and modern web development while maintaining a commitment to open-source contributions.
+  👨‍💻 Hey there! I'm not just another developer - I'm a tech enthusiast who loves turning complex problems into elegant solutions! 
 </div>
 
 ---
