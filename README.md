@@ -3,7 +3,7 @@
     src="/Anas_new.jpg" 
     alt="Profile Picture" 
     width="200" 
-    height="200" 
+    height="250" 
     style="border-radius: 50%; object-fit: cover; margin-bottom: 20px;"
   />
   
