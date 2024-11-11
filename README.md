@@ -17,7 +17,8 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  👨‍💻 Hey there! I'm not just another developer - I'm a tech enthusiast who loves turning complex problems into elegant solutions! 
+  👨‍💻 Hey there! I'm not just another developer - <strong>I'm a tech enthusiast who loves turning complex problems into elegant solutions!</strong>
+
 </div>
 
 ---
