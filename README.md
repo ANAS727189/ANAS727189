@@ -1,13 +1,13 @@
 <div align="center">
-  <img 
+<!--   <img 
     src="/Anas_new.jpg" 
     alt="Profile Picture" 
     width="200" 
     height="250" 
     style="border-radius: 50%; object-fit: cover; margin-bottom: 20px;"
-  />
+  /> -->
   
-  # Hi, I am Anas 👋
+  # Hey, I am Anas 👋
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Competitive+Programmer;Machine+Learning+Enthusiast;DevOps+Developer;Problem+Solver" alt="Typing SVG" />
