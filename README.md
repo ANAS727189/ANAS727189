@@ -1,11 +1,11 @@
 <div align="center">
-<!--   <img 
-    src="/Anas_new.jpg" 
+  <img 
+    src="/github-header-image.png" 
     alt="Profile Picture" 
     width="200" 
     height="250" 
     style="border-radius: 50%; object-fit: cover; margin-bottom: 20px;"
-  /> -->
+  />
   
   # Hey, I am Anas 👋
 
