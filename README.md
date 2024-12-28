@@ -2,18 +2,17 @@
   <img 
     src="/github-header-image.png" 
     alt="Profile Picture" 
-    width="200" 
+    width="800" 
     height="250" 
     style="border-radius: 50%; object-fit: cover; margin-bottom: 20px;"
   />
-  
-  # Hey, I am Anas 👋
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Competitive+Programmer;Machine+Learning+Enthusiast;DevOps+Developer;Problem+Solver" alt="Typing SVG" />
+ <div>
+      <h3>I am a </h3> 
+    <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Competitive+Programmer;Machine+Learning+Enthusiast;DevOps+Developer;Problem+Solver" alt="Typing SVG" />
+ </div>
   </a>
-
-  [![Profile Views](https://komarev.com/ghpvc/?username=ANAS727189&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/ANAS727189)
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -55,5 +54,7 @@
 ---
 
 <div align="center">
-  <b>Thanks for visiting my profile! Let's connect and build something amazing together. 🚀</b>
+  <b>Let's connect and build something amazing together. 🚀</b>
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=ANAS727189&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/ANAS727189)
 </div>
