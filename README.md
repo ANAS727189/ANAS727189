@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="/github-header-image.png" 
+    src="/banner.png" 
     alt="Profile Picture" 
     width="800" 
     height="250" 
