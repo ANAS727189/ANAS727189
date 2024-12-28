@@ -1,23 +1,11 @@
 <div align="center">
   <img 
-    src="/banner.png" 
+    src="/header.png" 
     alt="Profile Picture" 
     width="800" 
-    height="250" 
+    height="400" 
     style="border-radius: 50%; object-fit: cover; margin-bottom: 20px;"
   />
-
- <div>
-      <h3>I am a </h3> 
-    <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Competitive+Programmer;Machine+Learning+Enthusiast;DevOps+Developer;Problem+Solver" alt="Typing SVG" />
- </div>
-  </a>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  👨‍💻 Hey there! I'm not just another developer - <strong>I'm a tech enthusiast who loves turning complex problems into elegant solutions!</strong>
-
 </div>
 
 ---
