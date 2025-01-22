@@ -2,8 +2,8 @@
   <img 
     src="/header.png" 
     alt="Profile Picture" 
-    width="610" 
-    height="300" 
+    width="600" 
+    height="295" 
     style="border-radius: 50%; object-fit: cover; margin-bottom: 20px;"
   />
   
