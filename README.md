@@ -3,7 +3,7 @@
     src="/header.png" 
     alt="Profile Picture" 
     width="600" 
-    height="295" 
+    height="285" 
     style="border-radius: 50%; object-fit: cover; margin-bottom: 20px;"
   />
   
