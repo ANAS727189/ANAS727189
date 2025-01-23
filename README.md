@@ -12,7 +12,9 @@
   
   # Hello World! 👋 I'm Anas
  ## Full Stack Developer | UI/UX Designer | Problem Solver
-     Innovating at the intersection of code and creativity 🌟
+   <p align="center">
+    Innovating at the intersection of code and creativity 🌟
+  </p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-k-71b473296)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anas_is_me)
@@ -99,6 +101,7 @@ const anas = {
 - 💡 Mentoring and sharing knowledge in **Full Stack Development**
 
 ---
+
 
 <div align="center">
   <h3>💬 Let's Connect and Build Something Amazing! 🚀</h3>
