@@ -25,7 +25,7 @@
 
 ```javascript
 const anas = {
-    currentFocus: "Web3 & Smart Contract Development",
+    currentFocus: "AWS & Web3 Development",
     learning: ["Solidity", "Ethereum", "DApp Architecture"],
     technologies: {
         frontEnd: ["React", "Next.js", "TypeScript", "Chakra UI"],
