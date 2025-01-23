@@ -2,9 +2,12 @@
   <img 
     src="/header.png" 
     alt="Profile Picture" 
-    width="600" 
-    height="285" 
-    style="border-radius: 50%; object-fit: cover; margin-bottom: 20px;"
+    style="max-width: 100%; 
+           width: 600px; 
+           height: auto; 
+           border-radius: 50%; 
+           object-fit: cover; 
+           margin-bottom: 20px;"
   />
   
   # Hello World! 👋 I'm Anas
