@@ -10,7 +10,8 @@
            margin-bottom: 20px;"
   />
   
-  # Hello World! 👋 I'm Anas
+# Hello World! 💻 
+`System.out.println("I am Anas 👋");`
  ## Full Stack Developer | UI/UX Designer | Problem Solver
    <p align="center">
     Innovating at the intersection of code and creativity 🌟
