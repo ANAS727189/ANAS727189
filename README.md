@@ -29,7 +29,7 @@
 ```javascript
 const anas = {
     currentFocus: "AWS & Web3 Development",
-    learning: ["Solidity", "Ethereum", "DApp Architecture"],
+    learning: ["Solidity", "Ethereum", "AWS", "Cloud Architecture"],
     technologies: {
         frontEnd: ["React", "Next.js", "TypeScript", "Chakra UI"],
         backEnd: ["Node.js", "Express", "FastAPI", "Django"],
