@@ -26,7 +26,7 @@
 
 <div align="center">
   <!-- Animated timeline bar -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Transmission+from+2077+established...;Temporal+link+secure...;Accessing+developer+profile...;Quantum+encryption+complete...&font=Fira%20Code&center=true&width=410&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Transmission%20from%202077%20established...;Temporal%20link%20secure...;Accessing%20developer%20profile...;Quantum%20encryption%20complete...&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </div>
 
 ---
