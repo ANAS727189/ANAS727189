@@ -81,7 +81,6 @@ const anas = {
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![QuantumScript](https://img.shields.io/badge/QuantumScript-%23734F96.svg?style=for-the-badge)
 </details>
 
 <details>
