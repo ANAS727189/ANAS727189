@@ -6,9 +6,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVwemI1aGpmMjR5aWRqdzU4bndqcnJhaG9wMnlsN2VwMmxxOHFyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="450" alt="Time Travel GIF">
 </div>
 <h1> Full Stack Developer | UI/UX Designer | Problem Solver </h1>
-<p align="center">
-  Innovating at the intersection of code and creativity 🌟
-</p>
+
 
 <!-- Animated social media badges with hover effects -->
 <p align="center">
@@ -149,51 +147,11 @@ const anas = {
   </a>
 </div>
 
-### 🎯 Current Focus
-
-- 🔭 Exploring the depths of **Web3** and **Blockchain Development**
-- 🌱 Building **DApps** and **Smart Contracts**
-- 👯 Looking to collaborate on **innovative open-source projects**
-- 💡 Mentoring and sharing knowledge in **Full Stack Development**
 
 <!-- Animated tech radar -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBxZnp5cm0zd3V4cmxxcHV4MmF0OGw3OG9qanR2YTZiemR3aHF4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="350">
-</div>
+
 
 ---
-### 📜 Archaeological Field Notes
-
-<div align="center">
-  <!-- Animated timeline -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="600" />
-  
-  <div style="position: relative; width: 600px; margin: 30px auto;">
-    <div style="position: absolute; width: 20px; height: 20px; background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(255,0,0,0) 70%); border-radius: 50%; animation: pulse 2s infinite; left: 0;"></div>
-    <div style="position: absolute; width: 20px; height: 20px; background: radial-gradient(circle, rgba(255,255,0,1) 0%, rgba(255,255,0,0) 70%); border-radius: 50%; animation: pulse 2s infinite; left: 220px;"></div>
-    <div style="position: absolute; width: 20px; height: 20px; background: radial-gradient(circle, rgba(0,255,0,1) 0%, rgba(0,255,0,0) 70%); border-radius: 50%; animation: pulse 2s infinite; left: 440px;"></div>
-    <div style="position: absolute; width: 20px; height: 20px; background: radial-gradient(circle, rgba(0,0,255,1) 0%, rgba(0,0,255,0) 70%); border-radius: 50%; animation: pulse 2s infinite; left: 580px;"></div>
-  </div>
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="600" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">2023</td>
-      <td align="center">2035</td>
-      <td align="center">2050</td>
-      <td align="center">2077</td>
-    </tr>
-  </table>
-</div>
-
-> "The code of tomorrow is written with the knowledge of yesterday, implemented today." - Temporal Coding Guild, 2077
-
-> "Every bug fixed creates a new branch in the timeline. Choose your debugger wisely." - The Quantum Compiler Manifesto
-
-> "In the year 2077, we don't worry about frontend vs backend. We worry about which dimension our code will run in." - Neural Network Symposium
 
 <!-- Time disruption animation -->
 <div align="center">
