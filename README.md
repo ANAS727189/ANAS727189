@@ -1,7 +1,7 @@
 <div align="center">
   
-# Hey ! I am Anas
-<h1>I am a  Full Stack Developer and a UI/UX Designer.</h1>
+# Wassup I am Anas
+## I am a  Full Stack Developer and a UI/UX Designer.
 
 
 <!-- Animated social media badges with hover effects -->
