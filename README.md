@@ -3,25 +3,13 @@
 # Wassup I am Anas
 ## I am a  Full Stack Developer and a UI/UX Designer.
 
+## 🌐 Connect With Me
 
-<!-- Animated social media badges with hover effects -->
-<p align="center">
-  <a href="https://linkedin.com/in/anas-k-71b473296">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:0 10px; transform: translateY(0); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
-  </a>
-  <a href="https://twitter.com/Anas_is_me">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" style="margin:0 10px; transform: translateY(0); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
-  </a>
-  <a href="https://instagram.com/83anas_is_me">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="margin:0 10px; transform: translateY(0); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-k-71b473296)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anas_is_me)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/83anas_is_me)
+
 </div>
-
-
-
-
----
 
 
 ## 🛠️ Technical Stack
