@@ -1,5 +1,4 @@
 <div align="center">
-[![An image of @anas727189's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anas727189)](https://holopin.io/@anas727189)
   
 # Wassup I am Anas
 ## I am a  Full Stack Developer and an UI/UX Designer.
