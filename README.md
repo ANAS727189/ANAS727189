@@ -1,6 +1,6 @@
 <div align="center">
   
-# Wassup I am Anas
+# Wassup, I am Anas
 ## I am a  Full Stack Developer and an UI/UX Designer.
 
 ## 🌐 Connect With Me
